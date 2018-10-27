@@ -1,0 +1,12 @@
+{
+  "include": ["./src/**/*"],
+  "compilerOptions": {
+    "allowJs": true,
+    "jsx": "react",
+    "outDir": "./dist",
+    "sourceMap": true,
+    "strictNullChecks": true,
+    "target": "ES5",
+    "lib": ["es6", "dom"]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "extends": ["tslint:recommended", "tslint-react"],
+  "defaultSeverity": "warning",
+  "rules": {
+    "arrow-parens": [true, "ban-single-arg-parens"],
+    "comment-format": [true, "check-space"],
+    "no-null-keyword": true,
+    "ordered-imports": false,
+    "quotemark": [true, "single", "jsx-double"],
+    "trailing-comma": [true, {
+      "multiline": {
+        "functions": "never"
+      }
+    }],
+    "jsx-alignment": true,
+    "jsx-boolean-value": ["never"],
+    "jsx-space-before-trailing-slash": true
+  },
+  "jsRules": {}
+}
