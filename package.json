@@ -45,7 +45,7 @@
     "@types/webpack": "4.4.17",
     "cache-loader": "1.2.2",
     "file-loader": "2.0.0",
-    "fork-ts-checker-webpack-plugin": "0.4.13",
+    "fork-ts-checker-webpack-plugin": "0.4.14",
     "jest": "23.6.0",
     "react-hot-loader": "4.3.11",
     "thread-loader": "1.2.0",
